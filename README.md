@@ -10,7 +10,7 @@
 
 - Introduction（入门概述）
     - Version Iteration（版本迭代）
-    - Comments & Split（注释与代码分割）
+    - Comments & Split（注释与代码分离）
     - Builder & Dependence Manager（构建与依赖管理）
 - Syntax（语法基础）
     - Expression（表达式）
